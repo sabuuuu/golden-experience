@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Golden Experience",
+    "slug": "pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icone.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/fore.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fore.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sabuuuuu.pro"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "85121181-86d5-4dcb-a8aa-78a2234f3c38"
+      }
+    }
+  }
+}
