@@ -29,4 +29,4 @@ The Golden Experience mobile application can be installed on Android and iOS dev
 - Provide feedback and ratings for your dining experience.
 
 ## Acknowledgments
-This programme was my final year computer science project.
+This programme was my final year computer science project and first project using React native and expo technologies.
